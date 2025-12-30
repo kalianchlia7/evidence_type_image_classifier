@@ -39,12 +39,10 @@ Download link: (https://www.kaggle.com/datasets/ayushkvs/fake-and-real-face-dete
 
 Description:
 
-#Accuracy Plot
+### 🟢 Accuracy Plot
+![Accuracy Plot](accuracy_plot.png)
 
-accuracy_plot.png
-
-#Loss Plot
-
-loss_plot.png
+### 🔴 Loss Plot
+![Loss Plot](loss_plot.png)
 
 
