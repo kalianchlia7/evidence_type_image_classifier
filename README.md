@@ -32,20 +32,19 @@ predicted_label = "Real" if prediction_prob > 0.5 else "Fake"
 print(f"Predicted Label: {predicted_label}")
 
 # Dataset
+
 Dataset: Real vs. Fake Faces (AI-generated and real face images)
-
 Structure: train/, val/, test/ folders with real/ and fake/ subfolders
-
 Download link: (https://www.kaggle.com/datasets/ayushkvs/fake-and-real-face-detection)
 
 Description:
 
 #Accuracy Plot
 
-
+accuracy_plot.png
 
 #Loss Plot
 
-
+loss_plot.png
 
 
